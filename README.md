@@ -1,6 +1,6 @@
 Pokemon Gameboy 
 
-deploy : pokemongameboy.netlify.app
+deploy : https://pokemongameboy.netlify.app/
 
 
 Starting 🚀
