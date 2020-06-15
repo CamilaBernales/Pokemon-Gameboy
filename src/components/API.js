@@ -14,7 +14,6 @@ const API = () => {
     );
     const respuesta = await solicitud.json();
     setPokemon(respuesta);
-    console.log(respuesta);
   };
 
   useEffect(() => {
